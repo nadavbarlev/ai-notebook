@@ -11,3 +11,6 @@ wheels/
 
 # OS files
 .DS_Store
+
+# PDF files
+*.pdf
